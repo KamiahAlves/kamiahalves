@@ -4,12 +4,10 @@
   <p align="center"> Além disso estudo Desenvolvimento Web na <a href="https://www.alura.com.br/"><i>Alura</i></a> e me aventuro no empreendedorismo através da <a href="https://www.instagram.com/kamis.doceria/"><i>Kamis Doceria</i></a> 😉️
 </div>
 
-
 <div align="center">
   <a href="https://github.com/KamiahAlves">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KamiahAlves&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiahAlves&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KamiahAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center" valign="top"><br>
