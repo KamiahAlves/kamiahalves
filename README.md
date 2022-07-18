@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oiii, Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/kamiah-pedra-351421145/">Kamiah Alves</a> 😃️</h1>
-  <p align="center">Me formei em ADS na <a href="https://www.unip.br/"><i>Unip</i></a> e atualmente compartilho meu aprendizado com meus alunos da <a href="https://www.byjusfutureschool.com/"><i>Byjus Future School</i></a><br>
+  <p align="center">Me formei em ADS na <a href="https://www.unip.br/"><i>Unip</i></a> e atualmente compartilho meu aprendizado com meus alunos da <a href="https://www.byjusfutureschool.com/"><i>Byjus Future School!</i></a><br>
   <p align="center"> Além disso estudo Desenvolvimento Web na <a href="https://www.alura.com.br/"><i>Alura</i></a> e me aventuro no empreendedorismo através da <a href="https://www.instagram.com/kamis.doceria/"><i>Kamis Doceria</i></a> 😉️
 </div>
 
