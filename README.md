@@ -5,7 +5,7 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://fernandakipper.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/-kamiah.alves@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kamiah.alvesr@gmail.com)](mailto:kamiah.alves@gmail.com)
 
-<img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
+<img align="right" alt="Gato no PC" src="(https://github.com/KamiahAlves/sistema-gestao-doceria/blob/main/c6f13b01a53d7152d7f235838efe5a09.gif)"  width="300px"/>
 
 ## My name is Kamiah Alves
 ( JS | HTML | CSS ) 🚀
