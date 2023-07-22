@@ -10,7 +10,7 @@
 ## My name is Kamiah Alves
 ( JS | HTML | CSS ) 🚀
 - Professora de Programação @[Byjus](https://www.byjusfutureschool.com/)
-- Estudante de Desenvolvimento Front-End
+- Pós graduanda em Desenvolvimento de Software e Metodologia Ágil pela Anhembi Morumbi
 - Apaixonado por desenvolvimento web e games
 - Também me arrisco no mundo do empreendedorismo através da [Kamis Doceria](https://www.instagram.com/kamis.doceria/) 🔍, onde atuo com  a produção dos produtos, criação de conteudo, fotografia, gestão, entre outros.
 - Sempre buscando conhecimento ✨
