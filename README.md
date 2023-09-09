@@ -7,7 +7,7 @@
 - Professora de Programação @[Byjus](https://www.byjusfutureschool.com/)
 - Pós graduanda em Desenvolvimento de Software e Metodologia Ágil pela Anhembi Morumbi
 - Apaixonado por desenvolvimento web e games
-- Também me arrisco no mundo do empreendedorismo através da [Kamis Doceria](https://www.instagram.com/kamis.doceria/) 🔍, onde atuo com  a produção dos produtos, criação de conteudo, fotografia, gestão, entre outros.
+- Também me arrisco no mundo do empreendedorismo através da [Kamis Doceria](https://www.instagram.com/kamis.doceria/) 🔍, onde atuo com a produção, criação de conteudo, fotografia, gestão, entre outros.
 - Sempre buscando conhecimento ✨
 
 ### Conecte-se comigo
