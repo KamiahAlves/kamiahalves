@@ -2,18 +2,24 @@
 
 <img align="right" alt="Gato no PC" src="https://github.com/KamiahAlves/sistema-gestao-doceria/blob/main/c6f13b01a53d7152d7f235838efe5a09.gif?raw=true"  width="300px"/>
 
-- Professora de Programação @[Byjus](https://www.byjusfutureschool.com/)
+- Professora de Desenvolvimento de Sistemas e Informatica no [Grupo Sequencial](https://www.escolasequencial.com.br/)
 - Pós graduanda em Desenvolvimento de Software e Metodologia Ágil pela Anhembi Morumbi
-- Apaixonado por desenvolvimento web e games
+- Curso atual: Data Analytics com Power BI pela [Dio.me](https://www.dio.me/users/kamiah_alves) 
+- Apaixonado por todas as etapas do desenvolvimento web
 - Também me arrisco no mundo do empreendedorismo através da [Kamis Doceria](https://www.instagram.com/kamis.doceria/) 🔍, onde atuo com a produção, criação de conteudo, fotografia, gestão, entre outros.
+
 - Sempre buscando conhecimento ✨
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/kamiah-pedra-351421145/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/heykamis/)
-[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium)](https://medium.com/@kamiah.alves)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/kamiah_alves)
+  [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium)](https://medium.com/@kamiah.alves)
+
+<div> 
+  <a href="https://instagram.com/heykamis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kamiah.alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kamiah-pedra-351421145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
+</div>
 
 
 
