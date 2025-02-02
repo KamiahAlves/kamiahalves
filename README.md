@@ -1,60 +1,42 @@
-# 💻 Seja bem vindo ao meu Github 
+# Kamiah Pedra
 
-<img align="right" alt="Gato no PC" src="https://github.com/KamiahAlves/sistema-gestao-doceria/blob/main/c6f13b01a53d7152d7f235838efe5a09.gif?raw=true"  width="300px"/>
-
-- Professora de Desenvolvimento de Sistemas e Informatica no [Grupo Sequencial](https://www.escolasequencial.com.br/)
-- Pós graduanda em Desenvolvimento de Software e Metodologia Ágil pela Anhembi Morumbi
-- Curso atual: Data Analytics com Power BI pela [Dio.me](https://www.dio.me/users/kamiah_alves) 
-- Apaixonado por todas as etapas do desenvolvimento web
-- Também me arrisco no mundo do empreendedorismo através da [Kamis Doceria](https://www.instagram.com/kamis.doceria/) 🔍, onde atuo com a produção, criação de conteudo, fotografia, gestão, entre outros.
-
-- Sempre buscando conhecimento ✨
-
-### Conecte-se comigo
-
-  [![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium)](https://medium.com/@kamiah.alves)
-
-<div> 
-  <a href="https://instagram.com/heykamis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kamiah.alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kamiah-pedra-351421145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>   
-</div>
+<img src="https://i.pinimg.com/736x/3c/e1/4a/3ce14ac1ee8ca62c7e10231c9e003457.jpg" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
 
 
+### Professora de Desenvolvimento de Sistemas e Informatica.
 
-### Habilidades
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
-[![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion)
-
-### Minhas Contribuições
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KamiahAlves&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/83Rafa/dio-lab-open-source)
-
-### GitHub Status
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
-
-
-<p align="center">
-  <a href="https://github.com/?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/0-don"/>
-  </a>
-  <a href="https://github.com/KamiahAlves?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/0-don"/>
-  </a>
-  <a href="https://github.com/KamiahAlves?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/KamiahAlves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/KamiahAlves/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=KamiahAlves&style=for-the-badge&color=lightgrey"/>
-  </a>
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamiah-pedra/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/heykamis/" alt="Instagram"/></a>
 </p>
+
+Meu nome é Kamiah Pedra, ou “kamis” (é como me chamam). Sou Professora de Desenvolvimento de Sistemas desde 2021, mas **atualmente trabalho como Técnica de Informatica Jr**. Sou extremamente apaixonada por gatos e leitura, principalmente quadrinhos.
+
+Minha primeira experiência com código foi na faculdade de Analise de Sistemas, não foi das mais animadoras, sendo bem sincera. Mas aos poucos fui vendo como é incrivél a ideia de elaborar e criar nossos proprios projetos, usando comando. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. E ter tido a chance de ensinar isso para publicos tão distindos, indo de crianças até jovens e adultos, foi desafiador e ainda mais empolgante. Poder compartilhar nosso conhecimento não tem preço e da até um quentinho no coração, não é mesmo?!
+
+*É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um castelo de códigos*. (como diria o Iuri Silva)
+
+👩‍🏫 **No momento** estou estudando mais sobre UI/UX Designer e React Native.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
