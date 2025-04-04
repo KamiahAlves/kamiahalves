@@ -1,6 +1,6 @@
 # Kamiah Pedra
 
-<img src="https://i.pinimg.com/736x/3c/e1/4a/3ce14ac1ee8ca62c7e10231c9e003457.jpg" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
+<img src="https://github.com/KamiahAlves/kamiahalves/blob/main/ChatGPT%20Image%204%20de%20abr.%20de%202025%2C%2012_42_59.png" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
 
 
 ### Professora de Desenvolvimento de Sistemas e Informatica.
